@@ -1,6 +1,6 @@
-# smartCar TienChengHung
+# smartCar ChengHung_112360218
 The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
-
+Autonomous vehicles can sense their environment using technologies such as radar, LiDAR, sensors, GPS, and computer vision.Advanced control systems can convert sensor data into appropriate navigation routes, as well as detect obstacles and relevant signs. Through Simultaneous Localization and Mapping (SLAM) technology, it updates its map information to allow the vehicle to continuously track its position. A fleet of autonomous vehicles composed of multiple self-driving cars can effectively alleviate traffic congestion, thereby improving the transportation efficiency of the traffic system.
 
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
